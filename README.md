@@ -18,9 +18,9 @@ Here are some ideas to get you started:
  <image src = "https://github.com/user-attachments/assets/14abe82c-a118-4c68-954f-a09f2a9c61bd"/>
 </p>
 
-<h1 align="center">
-  <code>Eternal Night Will Fall</code>
-</h1>
+<h2 align="center">
+  <code>45 74 65 72 6E 61 6C  4E 69 67 68 74  57 69 6C 6C  46 61 6C 6C</code>
+</h2>
 
 ***
 
