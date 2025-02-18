@@ -28,7 +28,6 @@ Here are some ideas to get you started:
 
 - Languages: Russian 🇷🇺, English 🇬🇧 (B2)
 - Interests: System Programming, CheatDev, GameDev
-- WorldView: Atheistic Satanism
 
 ***
 
